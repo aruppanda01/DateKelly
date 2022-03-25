@@ -48,10 +48,10 @@
                     <div class="col-sm-4 p-0">
                         <select class="form-control" name="theme" required>
                             <option value="Sexy">Sexy</option>
+                            <option value="Naughty">Naughty</option>
+                            <option value="Hardcore">Hardcore</option>
+                            <option value="Fun">Fun</option>
                             <option value="Romantic">Romantic</option>
-                            <option value="3">3</option>
-                            <option value="4">4</option>
-                            <option value="5">5</option>
                         </select>
                     </div>
                 </div>
